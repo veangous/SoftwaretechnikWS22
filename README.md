@@ -10,8 +10,9 @@
 50% der Ilias Aufgaben.
 Projekt Freiwillig. 
 
-Vorgeschlagene Programmiersprache: *Java*
-Vorgeschlagene Modellierungssoftware: [SternUML](https://staruml.io/)
+Vorgeschlagene Programmiersprache: *Java* 
+
+Vorgeschlagene Modellierungssoftware: [StarnUML](https://staruml.io/)
 
 ## Contributors
 + Chris (andyj)
