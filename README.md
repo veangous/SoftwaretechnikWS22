@@ -12,7 +12,7 @@ Projekt Freiwillig.
 
 Vorgeschlagene Programmiersprache: *Java* 
 
-Vorgeschlagene Modellierungssoftware: [StarnUML](https://staruml.io/)
+Vorgeschlagene Modellierungssoftware: [StarUML](https://staruml.io/)
 
 ## Contributors
 + Chris (andyj)
