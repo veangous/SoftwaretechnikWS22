@@ -1,4 +1,9 @@
 # Softwaretechnik WS22
+# Nr. 1 
+![Phasen Softwareentwicklung](https://user-images.githubusercontent.com/59001793/200300497-4247c952-1a51-49ce-80a3-013853a61ad0.PNG)
+
+
+# Nr. 2
  # Java CSV Parser
 ## Requirements 
 Die folgenden Programme/Software müssen*installiert sein
